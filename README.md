@@ -1,6 +1,7 @@
 # Scott Walmsley, PhD
 
 My personal portfolio site built using Jekyll and Github pages.
+As seen at: https://scottwalmsley.github.io/.
 ### Still in progress!
 
 ## Credits
