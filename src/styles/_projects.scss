@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 90%;
+  width: 100%;
   max-width: 960px;
   margin: 0 auto;
   @media only screen and (min-width: $cut) {
@@ -34,6 +34,9 @@
     margin-left: 0;
     width: 48%;
   }
+  p {
+    font-size: 11px;
+  }
 }
 
 .contents-right {
@@ -42,10 +45,14 @@
     margin-top: -5%;
     width: 48%;
   }
+  p {
+    font-size: 11px;
+  }
 }
 .images-right {
   @media only screen and (min-width: $cut) {
     float: right;
+    margin-top: 5%;
     width: 48%;
   }
   img {
@@ -63,6 +70,7 @@
   img {
     @media only screen and (min-width: $cut) {
       float: left;
+      margin-top: 5%;
     }
   }
 }

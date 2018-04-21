@@ -1,10 +1,10 @@
 # Site settings
 title: Scott Walmsley
 description: My data science portfolio
-#highlighter: rouge
-highlighter: pygments.rb
+highlighter: rouge
+#highlighter: pygments.rb
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "berkeley:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://scottwalmsley.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Scott Walmsley
