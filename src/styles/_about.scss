@@ -2,13 +2,18 @@
   width: 90%;
   margin: 0 auto;
   max-width: 960px;
+  
   @media only screen and (min-width: $cut) {
     width: 90%;
    }
 }
 
 .tech {
-    margin: 10px;
+    margin: 8px;
+    @media only screen and (min-width: $cut) {
+      width: 100%;
+     }
+    
 }
 
 
