@@ -20,13 +20,13 @@
 
 .user {
   text-align: center;
-  font-size: 10px;
+  font-size: 12px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
   p {
-    font-size: 11px;
+    font-size: 12px;
   }
   @media only screen and (min-width: $cut) {
     flex-wrap: nowrap;
@@ -37,4 +37,6 @@
 .user-details {
   text-align: center;
   margin: 5px auto;
+  font-size: 16px;
+  text-align: center;
 }
